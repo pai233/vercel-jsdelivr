@@ -3,3 +3,4 @@
   "routes": [
     {"src": "/(.*)","dest": "https://cdn.jsdelivr.net/$1"}
   ]
+}
